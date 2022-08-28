@@ -12,7 +12,7 @@
 </p>
 
 # Sobre
-<p>O projeto ApiFinanceira, foi desenvolvida por meio do desafio passado pela cubos Academy, por se tratar de uma empresa inovadora e desenvolvedora de serviços financeiros. Está  Api, tem como função  </p>
+<p>O projeto ApiFinanceira, foi desenvolvida por meio do desafio passado pela cubos Academy, por se tratar de uma empresa inovadora e desenvolvedora de serviços financeiros. Está  Api, tem como função realizar cadastro de cliente, criação de conta, criar cartões relacionadas as contas e também pessoas, realizar transações. </p>
 
 
 # Etapas
