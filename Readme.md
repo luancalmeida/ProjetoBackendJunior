@@ -1,5 +1,5 @@
 
-#  Projeto Backend Junior Cubos Academy
+#  Projeto Backend Junior Cubos
 
 <p align = "center">Projeto ApiFinanceira</p>
 
