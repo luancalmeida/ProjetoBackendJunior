@@ -1,5 +1,5 @@
 
-#  Projeto Backend Junior Cubos
+#  Projeto Backend Junior Cubos Tecnologia
 
 <p align = "center">Projeto ApiFinanceira</p>
 
@@ -7,8 +7,8 @@
 <p align = "center">
 <a href="#Sobre">Sobre</a>.
 <a href="#Etapas">Etapas</a>.
-<a href="#Feature">Feature</a>.
-<a href="">Autor</a>.
+<a href="#Instruções">Instruções</a>.
+
 </p>
 
 # Sobre
